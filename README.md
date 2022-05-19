@@ -4,7 +4,9 @@
 <img src="https://miro.medium.com/max/1024/1*Q-UYjrfzbGsgxtj4jiKNwg.jpeg" width="800">
 </p>
 
-My roadmap to study Computer Science.
+My roadmap for Computer science education.
+
+---
 
 ## **Data Analysis**
 #### Courses
@@ -16,20 +18,42 @@ Includes
 | [SkillFactory](https://skillfactory.ru/power-bi-analyst) | Анализ данных в BI | **Completed** |
 | [SkillFactory](https://skillfactory.ru/sql-dlya-analiza-dannyh) | Курс по SQL для анализа данных | **Completed** |
 | [SkillFactory](https://skillfactory.ru/python-analytics) | Python для анализа данных | **Completed** |
+#### Projects
+| URL | Title |
+| :---: | --- |
+| [GitHub](https://github.com/DmAlKr76/55_diplom_project) | Подготовка основы для рекомендательной системы |
+| [GitHub](https://github.com/DmAlKr76/SDA_OD-3) | A/B-тест посадочных страниц |
+| [GitHub](https://github.com/DmAlKr76/SDA_OD-2) | Посчет показателей Retention Rate седьмого дня и ARPPU до и после внедрения фичи |
+| [GitHub](https://github.com/DmAlKr76/SDA_OD-1) | Анализ посещяемости сайта ботами |
+| [GitHub](https://github.com/DmAlKr76/SDA_Project-3) | Валидация гипотез |
+| [GitHub](https://github.com/DmAlKr76/SDA_project_GD-3) | Выявление зависимостей и различий |
+| [GoogleDocs](https://docs.google.com/document/d/14agi9xU7pMYf5hztIEva8itdr64maj-83tavOfQOENE/edit?usp=sharing) | Анализ эффективности работы компании (SQL) |
+| [GitHub](https://github.com/DmAlKr76/Power_BI) | Power BI |
+| [GoogleSheets](https://docs.google.com/spreadsheets/d/1MqsodBDG59FX4D0DoE9ZQZMDJwBhpx3HeQ2kvZ5MIL8/edit?usp=sharing) | Определение маркетинговых и продуктовых показателей бизнеса (Google Sheets) |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Pandas. Работа с данными | Абдрахманов М.И. | *In Progress* |
+---
 
 ## **Data Science**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [SkillFactory](https://skillfactory.ru/data-science-specialization) | Полный курс по Data Science | *In Progress* |
+#### Projects
+| URL | Title |
+| :---: | --- |
+| [GitHub](https://github.com/DmAlKr76/Predicting-a-Biological-Response) | Предсказание биологического ответа молекул по их химическому составу |
+| [GitHub](https://github.com/DmAlKr76/DST_eda_project_3_Booking) | Предсказание рейтинга отелей для выявления возможной накрутки |
+| [GoogleDocs](https://docs.google.com/document/d/1umQSdVMN5FAicw3IXyAq5p97TOmIcN-L-9Ap03b3UtE/edit?usp=sharing) | Анализ рынка труда (SQL) |
+| [GitHub](https://github.com/DmAlKr76/DST_Project_1) | Выявление признаков, оказывающих влияние на уровень желаемой заработной платы (EDA) |
+| [GitHub](https://github.com/DmAlKr76/DST_PY-13_HW) | Выявление признаков, оказывающих влияние на отток клиентов (EDA) |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Грокаем глубокое обучение | Эндрю Траск | *In Progress* |
+---
 
 ## **Web-development**
 #### Courses
@@ -37,11 +61,38 @@ Includes
 | :---: | --- | :---: |
 | [SkillFactory](https://skillfactory.ru/python-fullstack-web-developer) | Fullstack-разработчик на Python | **Completed** |
 | [SkillFactory](https://skillfactory.ru/qa-engineer-python-testirovshchik-programmnogo-obespecheniya) | Тестировщик-автоматизатор на Python | **Completed** |
+#### Projects
+| URL | Title |
+| :---: | --- |
+| QA |  
+| [GitHub](https://github.com/DmAlKr76/Labirint_tests) | Тестировние основных страниц интернет-магазина (PyTest, Selenium, PageObject) |
+| [GitHub](https://github.com/DmAlKr76/QAP_25.5.1_Selenium) | Тестировние основных страниц сайта (Selenium) |
+| [GitHub](https://github.com/DmAlKr76/QAP_API_tests) | Тестировние API сайта (PyTest) |
+| Fullstack |  
+| [GitHub](https://github.com/DmAlKr76/F9_aiohttp) | Сервер на aiohttp |
+| [GitHub](https://github.com/DmAlKr76/F4_CookBook) | Приложение с рецептами |
+| [GitHub](https://github.com/DmAlKr76/F1_weather) | Сервис просмотра информации о погоде |
+| [GitHub](https://github.com/DmAlKr76/D16_MMORPG) | Фан-клуб компьютерной игры |
+| [GitHub](https://github.com/DmAlKr76/NewsPaper) | Новостной портал |
+| [GitHub](https://github.com/DmAlKr76/E13) | Установка и настройка webpack-dev-server |
+| [GitHub](https://github.com/DmAlKr76/E10_resume) | Cтраница-резюме с использованием адаптивной верстки |
+| [GitHub](https://github.com/DmAlKr76/E10_resume) | Cтраница-резюме с использованием адаптивной верстки |
+| [GitHub](https://github.com/DmAlKr76/E6.9_messenger) | Базовый мессенджер на JS и Django RF |
+| JavaScript tasks |  
+| [GitHub](https://github.com/DmAlKr76/E4) | База
+| [GitHub](https://github.com/DmAlKr76/E3) | Функции
+| [GitHub](https://github.com/DmAlKr76/E2) | ООП
+| Other |  
+| [GitHub](https://github.com/DmAlKr76/Telegramm_bot) | Telegram-бот курсов валют |
+| [GitHub](https://github.com/DmAlKr76/HW) | Консольные игры "Крестики-нолики" и "Морской бой" |
+| [GitHub](https://github.com/DmAlKr76/Binary_predict) | Бинарный поиск |
+| [GitHub](https://github.com/DmAlKr76/G2) | Пользователи и права в Linux |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Грокаем алгоритмы | Адитья Бхаргава | **Completed** |
 | Python. unittest | Абдрахманов М.И. | **Completed** |
+---
 
 ## **Pentest**
 #### Courses
