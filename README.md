@@ -56,6 +56,17 @@ Includes
 | Грокаем глубокое обучение | Эндрю Траск | *In Progress* |
 ---
 
+## **Natural Language Processing**
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [SkillFactory](https://skillfactory.ru/) | NLP-инженер | *In Progress* |
+#### Projects
+| URL | Title |
+| :---: | --- |
+| [GitHub](https://github.com/DmAlKr76/NLP_TF-IDF-Word2Vec) | Задача нахождения похожих товаров в интернет-магазинах (TF-IDF & Word2Vec) |
+---
+
 ## **Web-development**
 #### Courses
 | URL | Title | Status |
