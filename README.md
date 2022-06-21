@@ -56,16 +56,19 @@ Includes
 | Грокаем глубокое обучение | Эндрю Траск | *In Progress* |
 ---
 
-## **Natural Language Processing**
+## **Deep Learning and Neural Networks**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [SkillFactory](https://skillfactory.ru/nejronnye-seti-deep-learning) | Нейронные сети и Deep Learning | *In Progress* |
 | [SkillFactory](https://skillfactory.ru/) | NLP-инженер | *In Progress* |
 #### Projects
 | URL | Title |
 | :---: | --- |
+| [GitHub](https://github.com/DmAlKr76/SF_mnist_fashion) | Задача классификации одежды по датасету Fashion MNIST с помощью Keras |
 | [GitHub](https://github.com/DmAlKr76/NLP_TF-IDF-Word2Vec) | Задача нахождения похожих товаров в интернет-магазинах (TF-IDF & Word2Vec) |
 ---
+
 
 ## **Web-development**
 #### Courses
