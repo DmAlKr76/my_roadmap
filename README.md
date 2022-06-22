@@ -66,6 +66,7 @@ Includes
 | URL | Title |
 | :---: | --- |
 | [GitHub](https://github.com/DmAlKr76/SF_mnist_fashion) | Задача классификации одежды по датасету Fashion MNIST с помощью Keras |
+| [GitHub](https://github.com/DmAlKr76/SF_cifar_10) | Распознавание изображения из датасета CIFAR-10 |
 | [GitHub](https://github.com/DmAlKr76/NLP_TF-IDF-Word2Vec) | Задача нахождения похожих товаров в интернет-магазинах (TF-IDF & Word2Vec) |
 ---
 
