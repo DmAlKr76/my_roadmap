@@ -65,6 +65,8 @@ Includes
 #### Projects
 | URL | Title |
 | :---: | --- |
+| [Kaggle](https://www.kaggle.com/code/dmalkr76/sf-movie-genre-classification/notebook) | Предсказание жанра фильма по его описанию (NLP, Bert) |
+| [Kaggle](https://www.kaggle.com/code/dmalkr76/car-classification?scriptVersionId=99856753) | Классификация автомобиля по фото (fine Tuning, Augmentation, TTA) |
 | [GitHub](https://github.com/DmAlKr76/SF_mnist_fashion) | Классификация одежды по датасету Fashion MNIST |
 | [GitHub](https://github.com/DmAlKr76/SF_cifar_10) | Распознавание изображения из датасета CIFAR-10 (CNN) |
 | [Kaggle](https://www.kaggle.com/code/dmalkr76/submission) | Распознавание буквы английского алфавита (CNN) |
