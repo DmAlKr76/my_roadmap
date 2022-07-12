@@ -8,7 +8,7 @@ My roadmap for Computer science education.
 
 ---
 
-## **Data Analysis**
+# **Data Analysis**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
@@ -36,7 +36,7 @@ Includes
 | Pandas. Работа с данными | Абдрахманов М.И. | *In Progress* |
 ---
 
-## **Data Science**
+# **Data Science**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
@@ -44,6 +44,7 @@ Includes
 #### Projects
 | URL | Title |
 | :---: | --- |
+| [GitHub](https://github.com/DmAlKr76/NYC-Taxi-Trip-Duration) | Прогнозирование длительности поездки на такси (ML)|
 | [GitHub](https://github.com/DmAlKr76/DST_Project_4) | Классификация клиентов банка для повышения результативности маркетинговой кампании (ML)|
 | [GitHub](https://github.com/DmAlKr76/Predicting-a-Biological-Response) | Предсказание биологического ответа молекул по их химическому составу (ML) |
 | [GitHub](https://github.com/DmAlKr76/DST_eda_project_3_Booking) | Предсказание рейтинга отелей для выявления возможной накрутки (ML) |
@@ -56,7 +57,7 @@ Includes
 | Грокаем глубокое обучение | Эндрю Траск | *In Progress* |
 ---
 
-## **Deep Learning and Neural Networks**
+# **Deep Learning and Neural Networks**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
@@ -65,16 +66,16 @@ Includes
 #### Projects
 | URL | Title |
 | :---: | --- |
-| [Kaggle](https://www.kaggle.com/code/dmalkr76/sf-movie-genre-classification/notebook) | Предсказание жанра фильма по его описанию (NLP, Bert) |
-| [Kaggle](https://www.kaggle.com/code/dmalkr76/car-classification?scriptVersionId=99856753) | Классификация автомобиля по фото (fine Tuning, Augmentation, TTA) |
+| [Kaggle](https://www.kaggle.com/code/dmalkr76/sf-movie-genre-classification/notebook) / [GitHub](https://github.com/DmAlKr76/Movie-Genre-Classification) | Предсказание жанра фильма по его описанию (NLP, Bert) |
+| [Kaggle](https://www.kaggle.com/code/dmalkr76/car-classification?scriptVersionId=99856753) / [GitHub](https://github.com/DmAlKr76/Car-classification) | Классификация автомобиля по фото (Fine Tuning, Augmentation, TTA) |
 | [GitHub](https://github.com/DmAlKr76/SF_mnist_fashion) | Классификация одежды по датасету Fashion MNIST |
 | [GitHub](https://github.com/DmAlKr76/SF_cifar_10) | Распознавание изображения из датасета CIFAR-10 (CNN) |
-| [Kaggle](https://www.kaggle.com/code/dmalkr76/submission) | Распознавание буквы английского алфавита (CNN) |
+| [Kaggle](https://www.kaggle.com/code/dmalkr76/submission) / [GitHub](https://github.com/DmAlKr76/Captcha-Recognition)  | Распознавание буквы английского алфавита (CNN) |
 | [GitHub](https://github.com/DmAlKr76/NLP_TF-IDF-Word2Vec) | Задача нахождения похожих товаров в интернет-магазинах (TF-IDF & Word2Vec) |
 ---
 
 
-## **Web-development**
+# **Web-development**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
@@ -113,7 +114,7 @@ Includes
 | Python. unittest | Абдрахманов М.И. | **Completed** |
 ---
 
-## **Pentest**
+# **Pentest**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
