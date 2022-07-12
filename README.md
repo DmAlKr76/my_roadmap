@@ -66,6 +66,7 @@ Includes
 #### Projects
 | URL | Title |
 | :---: | --- |
+| [Kaggle](https://www.kaggle.com/code/dmalkr76/keras-u-net-sf-nucleus-detection/notebook) / [GitHub](https://github.com/DmAlKr76/Nucleus-Detection) | Идентификация ядер клеток (задача сегментации - U-Net) |
 | [Kaggle](https://www.kaggle.com/code/dmalkr76/sf-movie-genre-classification/notebook) / [GitHub](https://github.com/DmAlKr76/Movie-Genre-Classification) | Предсказание жанра фильма по его описанию (NLP, Bert) |
 | [Kaggle](https://www.kaggle.com/code/dmalkr76/car-classification?scriptVersionId=99856753) / [GitHub](https://github.com/DmAlKr76/Car-classification) | Классификация автомобиля по фото (Fine Tuning, Augmentation, TTA) |
 | [GitHub](https://github.com/DmAlKr76/SF_mnist_fashion) | Классификация одежды по датасету Fashion MNIST |
