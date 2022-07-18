@@ -66,13 +66,15 @@ Includes
 #### Projects
 | URL | Title |
 | :---: | --- |
+| [GitHub](https://github.com/DmAlKr76/Text_classification) | Задача классификации текстов (LSTM & Bert) |
+| [GitHub](https://github.com/DmAlKr76/NLP_TF-IDF-Word2Vec) | Задача нахождения похожих товаров в интернет-магазинах (TF-IDF & Word2Vec) |
+| [GitHub](https://github.com/DmAlKr76/Person_segmentation) | Задача по сегментации людей на фотографии (Keras maskrcnn) |
 | [Kaggle](https://www.kaggle.com/code/dmalkr76/keras-u-net-sf-nucleus-detection?scriptVersionId=100672270) / [GitHub](https://github.com/DmAlKr76/Nucleus-Detection) | Идентификация ядер клеток (задача сегментации - U-Net) |
 | [Kaggle](https://www.kaggle.com/code/dmalkr76/sf-movie-genre-classification/notebook) / [GitHub](https://github.com/DmAlKr76/Movie-Genre-Classification) | Предсказание жанра фильма по его описанию (NLP, Bert) |
 | [Kaggle](https://www.kaggle.com/code/dmalkr76/car-classification?scriptVersionId=99856753) / [GitHub](https://github.com/DmAlKr76/Car-classification) | Классификация автомобиля по фото (Fine Tuning, Augmentation, TTA) |
 | [GitHub](https://github.com/DmAlKr76/SF_mnist_fashion) | Классификация одежды по датасету Fashion MNIST |
 | [GitHub](https://github.com/DmAlKr76/SF_cifar_10) | Распознавание изображения из датасета CIFAR-10 (CNN) |
 | [Kaggle](https://www.kaggle.com/code/dmalkr76/submission) / [GitHub](https://github.com/DmAlKr76/Captcha-Recognition)  | Распознавание буквы английского алфавита (CNN) |
-| [GitHub](https://github.com/DmAlKr76/NLP_TF-IDF-Word2Vec) | Задача нахождения похожих товаров в интернет-магазинах (TF-IDF & Word2Vec) |
 ---
 
 
