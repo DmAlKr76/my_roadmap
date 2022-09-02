@@ -44,6 +44,7 @@ Includes
 #### Projects
 | URL | Title |
 | :---: | --- |
+| [GitHub](https://github.com/DmAlKr76/customer_segmentation_project.git) | Сегментация клиентов интернет-магазина (ML)|
 | [GitHub](https://github.com/DmAlKr76/NYC-Taxi-Trip-Duration) | Прогнозирование длительности поездки на такси (ML)|
 | [GitHub](https://github.com/DmAlKr76/DST_Project_4) | Классификация клиентов банка для повышения результативности маркетинговой кампании (ML)|
 | [GitHub](https://github.com/DmAlKr76/Predicting-a-Biological-Response) | Предсказание биологического ответа молекул по их химическому составу (ML) |
