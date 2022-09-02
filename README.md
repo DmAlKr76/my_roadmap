@@ -88,11 +88,11 @@ Includes
 #### Projects
 | URL | Title |
 | :---: | --- |
-| QA |  
+| **QA** |  
 | [GitHub](https://github.com/DmAlKr76/Labirint_tests) | Тестировние основных страниц интернет-магазина (PyTest, Selenium, PageObject) |
 | [GitHub](https://github.com/DmAlKr76/QAP_25.5.1_Selenium) | Тестировние основных страниц сайта (Selenium) |
 | [GitHub](https://github.com/DmAlKr76/QAP_API_tests) | Тестировние API сайта (PyTest) |
-| Fullstack |  
+| **Fullstack** |  
 | [GitHub](https://github.com/DmAlKr76/F9_aiohttp) | Сервер на aiohttp |
 | [GitHub](https://github.com/DmAlKr76/F4_CookBook) | Приложение с рецептами |
 | [GitHub](https://github.com/DmAlKr76/F1_weather) | Сервис просмотра информации о погоде |
@@ -102,11 +102,11 @@ Includes
 | [GitHub](https://github.com/DmAlKr76/E10_resume) | Cтраница-резюме с использованием адаптивной верстки |
 | [GitHub](https://github.com/DmAlKr76/E10_resume) | Cтраница-резюме с использованием адаптивной верстки |
 | [GitHub](https://github.com/DmAlKr76/E6.9_messenger) | Базовый мессенджер на JS и Django RF |
-| JavaScript tasks |  
+| **JavaScript tasks** |  
 | [GitHub](https://github.com/DmAlKr76/E4) | База
 | [GitHub](https://github.com/DmAlKr76/E3) | Функции
 | [GitHub](https://github.com/DmAlKr76/E2) | ООП
-| Other |  
+| **Other** |  
 | [GitHub](https://github.com/DmAlKr76/Telegramm_bot) | Telegram-бот курсов валют |
 | [GitHub](https://github.com/DmAlKr76/HW) | Консольные игры "Крестики-нолики" и "Морской бой" |
 | [GitHub](https://github.com/DmAlKr76/Binary_predict) | Бинарный поиск |
