@@ -42,7 +42,6 @@ Includes
 | :---: | --- | :---: |
 | [SkillFactory](https://skillfactory.ru/data-science-specialization) | Полный курс по Data Science | *In Progress* |
 #### Projects
-<<<<<<< HEAD
 | URL | Title | Tools |
 | :---: | --- | --- |
 | [GitHub](https://github.com/DmAlKr76/customer_segmentation_project) | RFM - сегментация клиентов интернет-магазина | KMeans, GaussianMixture, AgglomerativeClustering, GridSearchCV, RandomForestClassifier, GradientBoostingClassifier
@@ -54,18 +53,7 @@ Includes
 | [GoogleDocs](https://docs.google.com/document/d/1umQSdVMN5FAicw3IXyAq5p97TOmIcN-L-9Ap03b3UtE/edit?usp=sharing) | Анализ рынка труда | SQL
 | [GitHub](https://github.com/DmAlKr76/DST_Project_1) | Выявление признаков, оказывающих влияние на уровень желаемой заработной платы | EDA
 | [GitHub](https://github.com/DmAlKr76/DST_PY-13_HW) | Выявление признаков, оказывающих влияние на отток клиентов | EDA
-=======
-| URL | Title |
-| :---: | --- |
-| [GitHub](https://github.com/DmAlKr76/customer_segmentation_project.git) | RFM - сегментация клиентов интернет-магазина (ML)|
-| [GitHub](https://github.com/DmAlKr76/NYC-Taxi-Trip-Duration) | Прогнозирование длительности поездки на такси (ML)|
-| [GitHub](https://github.com/DmAlKr76/DST_Project_4) | Классификация клиентов банка для повышения результативности маркетинговой кампании (ML)|
-| [GitHub](https://github.com/DmAlKr76/Predicting-a-Biological-Response) | Предсказание биологического ответа молекул по их химическому составу (ML) |
-| [GitHub](https://github.com/DmAlKr76/DST_eda_project_3_Booking) | Предсказание рейтинга отелей для выявления возможной накрутки (ML) |
-| [GoogleDocs](https://docs.google.com/document/d/1umQSdVMN5FAicw3IXyAq5p97TOmIcN-L-9Ap03b3UtE/edit?usp=sharing) | Анализ рынка труда (SQL) |
-| [GitHub](https://github.com/DmAlKr76/DST_Project_1) | Выявление признаков, оказывающих влияние на уровень желаемой заработной платы (EDA) |
-| [GitHub](https://github.com/DmAlKr76/DST_PY-13_HW) | Выявление признаков, оказывающих влияние на отток клиентов (EDA) |
->>>>>>> cf421820a2aaa04d5e458c0f8c23f6800ebacf8e
+
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
