@@ -44,6 +44,7 @@ Includes
 #### Projects
 | URL | Title | Tools |
 | :---: | --- | --- |
+| [GitHub](https://github.com/DmAlKr76/Time-series) | Исследование временного ряда и построение модели | Statsmodels, ARIMA, auto_arima
 | [GitHub](https://github.com/DmAlKr76/customer_segmentation_project) | RFM - сегментация клиентов интернет-магазина | KMeans, GaussianMixture, AgglomerativeClustering, GridSearchCV, RandomForestClassifier, GradientBoostingClassifier
 | [GitHub](https://github.com/DmAlKr76/Spam-classification) | Классификация спам-сообщений (Naive Bayes)| CountVectorizer, ComplementNB
 | [GitHub](https://github.com/DmAlKr76/NYC-Taxi-Trip-Duration) | Прогнозирование длительности поездки на такси | KMeans, SelectKBest, LinearRegression (Ridge), DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, XGBoost
