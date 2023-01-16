@@ -1,10 +1,10 @@
-# **Computer Science Roadmap**
+# **Data Science Roadmap**
 
 <p align="center"> 
 <img src="https://miro.medium.com/max/1024/1*Q-UYjrfzbGsgxtj4jiKNwg.jpeg" width="800">
 </p>
 
-My roadmap for Computer science education.
+### My roadmap for Data science education.
 
 ---
 
@@ -13,11 +13,16 @@ My roadmap for Computer science education.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [SkillFactory](https://skillfactory.ru/data-analytics) | Полный курс по анализу данных | **Completed** |
-Includes
+| [karpov.courses](https://karpov.courses/simulator-sql) | Симулятор SQL | **Completed** |
+| [stepik.org](https://stepik.org/course/58852/promo) | "Поколение Python": курс для начинающих | **Completed** |
+| [stepik.org](https://stepik.org/course/68343/promo) | "Поколение Python": курс для продвинутых | **Completed** |
+| [stepik.org](https://stepik.org/course/82541/promo) | "Поколение Python": курс для профессионалов | *In Progress* |
+<!-- Includes
 | [SkillFactory](https://skillfactory.ru/google-spreadsheets-master) | Мастер Google таблиц | **Completed** |
 | [SkillFactory](https://skillfactory.ru/power-bi-analyst) | Анализ данных в BI | **Completed** |
 | [SkillFactory](https://skillfactory.ru/sql-dlya-analiza-dannyh) | Курс по SQL для анализа данных | **Completed** |
-| [SkillFactory](https://skillfactory.ru/python-analytics) | Python для анализа данных | **Completed** |
+| [SkillFactory](https://skillfactory.ru/python-analytics) | Python для анализа данных | **Completed** | -->
+
 #### Projects
 | URL | Title | Tools |
 | :---: | --- | --- |
@@ -33,17 +38,23 @@ Includes
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Pandas. Работа с данными | Абдрахманов М.И. | *In Progress* |
+| Pandas. Работа с данными | Абдрахманов М.И. | **Completed** |
 ---
 
 # **Data Science**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [SkillFactory](https://skillfactory.ru/data-science-specialization) | Полный курс по Data Science | *In Progress* |
+| [SkillFactory](https://skillfactory.ru/data-science-specialization) | Полный курс по Data Science | **Completed** |
+| [SkillFactory](https://skillfactory.ru/data-engineer) | Курс по Data Engineering | **Completed** |
+| [karpov.courses](https://skillfactory.ru/data-science-specialization) | Docker с нуля | **Completed** |
+
 #### Projects
 | URL | Title | Tools |
 | :---: | --- | --- |
+| [GitHub](https://github.com/DmAlKr76/identifying_vulnerable_groups) | Исследование временного ряда и построение модели | PCA, TSNE, Umap, KMeans, DBSCAN, GaussianMixture, AgglomerativeClustering, SpectralClustering, Folium
+| [GitHub](https://github.com/DmAlKr76/ds_prod_docker-compose) | Сборка проекта и оркестрация приложений | Sklearn, Pika, Docker-compose
+| [GitHub](https://github.com/DmAlKr76/CI-T-DeskDrop-recomendation-system) | Примеры реализации рекомендательных систем | Pandas, Numpy, Scipy, Lightfm
 | [GitHub](https://github.com/DmAlKr76/Time-series) | Исследование временного ряда и построение модели | Statsmodels, ARIMA, auto_arima
 | [GitHub](https://github.com/DmAlKr76/customer_segmentation_project) | RFM - сегментация клиентов интернет-магазина | KMeans, GaussianMixture, AgglomerativeClustering, GridSearchCV, RandomForestClassifier, GradientBoostingClassifier
 | [GitHub](https://github.com/DmAlKr76/Spam-classification) | Классификация спам-сообщений (Naive Bayes)| CountVectorizer, ComplementNB
@@ -58,15 +69,16 @@ Includes
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Грокаем глубокое обучение | Эндрю Траск | *In Progress* |
+| Грокаем глубокое обучение | Эндрю Траск | **Completed** |
 ---
 
 # **Deep Learning and Neural Networks**
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [SkillFactory](https://skillfactory.ru/nejronnye-seti-deep-learning) | Нейронные сети и Deep Learning | *In Progress* |
-| [SkillFactory](https://skillfactory.ru/) | NLP-инженер | *In Progress* |
+| [SkillFactory](https://skillfactory.ru/nejronnye-seti-deep-learning) | Нейронные сети и Deep Learning | **Completed** |
+| [SkillFactory](https://skillfactory.ru/) | NLP-инженер | **Completed** |
+
 #### Projects
 | URL | Title | Tools |
 | :---: | --- | --- |
