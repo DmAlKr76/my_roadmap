@@ -52,7 +52,7 @@
 #### Projects
 | URL | Title | Tools |
 | :---: | --- | --- |
-| [GitHub](https://github.com/DmAlKr76/identifying_vulnerable_groups) | Исследование временного ряда и построение модели | PCA, TSNE, Umap, KMeans, DBSCAN, GaussianMixture, AgglomerativeClustering, SpectralClustering, Folium
+| [GitHub](https://github.com/DmAlKr76/identifying_vulnerable_groups) | Определение уязвимых групп населения | PCA, TSNE, Umap, KMeans, DBSCAN, GaussianMixture, AgglomerativeClustering, SpectralClustering, Folium
 | [GitHub](https://github.com/DmAlKr76/ds_prod_docker-compose) | Сборка проекта и оркестрация приложений | Sklearn, Pika, Docker-compose
 | [GitHub](https://github.com/DmAlKr76/CI-T-DeskDrop-recomendation-system) | Примеры реализации рекомендательных систем | Pandas, Numpy, Scipy, Lightfm
 | [GitHub](https://github.com/DmAlKr76/Time-series) | Исследование временного ряда и построение модели | Statsmodels, ARIMA, auto_arima
