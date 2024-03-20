@@ -14,16 +14,18 @@
 | [SkillFactory](https://skillfactory.ru/data-engineer) | Курс по Data Engineering | **Completed** |
 | [HSE](https://www.hse.ru/ma/mlds/mlops/) | MLops: начало | **Completed** |
 | [karpov.courses](https://karpov.courses/docker) | Docker с нуля | **Completed** |
+| [T1](https://t1.ru/internship/item/otkrytaya-shkola-dlya-inzhenerov-dannykh-data-engineer/) | Открытая школа для инженеров данных | **Completed** |
 
 #### Projects
 | URL | Title | Tools |
 | :---: | --- | --- |
 | [GitHub](https://github.com/DmAlKr76/pyspark_mlflow) | Классификация водителей   | PySpark, MLFlow
 | [GitHub](https://github.com/DmAlKr76/pyspark_ml) | Задачи банковского сектора  | PySpark
+| [GitHub](https://github.com/DmAlKr76/spark_airflow_tasks) | Задачи обработки данных  | PySpark, Airflow, PostgreSQL 
 | [GitHub](https://github.com/DmAlKr76/pydeequ_AnalyzerContext) | Анализ данных | PySpark, PyDeequ
 | [GitHub](https://github.com/DmAlKr76/spark-practice) | Преобразование данных  | PySpark
 | [GitHub](https://github.com/DmAlKr76/mapreduce-practice) | Map-Reduce приложение  | Hadoop
-| [GitHub](https://github.com/DmAlKr76/train_models_with_airflow_mlflow) | Обучение моделей  | MLFlow, Airflow, Sklearn, S3, Postgres 
+| [GitHub](https://github.com/DmAlKr76/train_models_with_airflow_mlflow) | Обучение моделей  | MLFlow, Airflow, Sklearn, S3, PostgreSQL 
 | [GitHub](https://github.com/DmAlKr76/ETL-processes) | ETL  | Airflow
 | [GitHub](https://github.com/DmAlKr76/DBMS) | DBMS  | PostgreSQL
 | [GitHub](https://github.com/DmAlKr76/Provider-s-DWH) | Проектирование DWH  | Dimension modeling, Data Vault, Anchor modeling
